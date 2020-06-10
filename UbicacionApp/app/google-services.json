@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531002071847",
+    "firebase_url": "https://ubicacionapp-afe3e.firebaseio.com",
+    "project_id": "ubicacionapp-afe3e",
+    "storage_bucket": "ubicacionapp-afe3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531002071847:android:302bb68778f5d5e9fe2702",
+        "android_client_info": {
+          "package_name": "com.example.ubicacionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531002071847-7nf67lkvn13j20qah2fogam8tm91umi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubicacionapp",
+            "certificate_hash": "814c1ad9019bb2feeeb9910a1332d5a66e4c837f"
+          }
+        },
+        {
+          "client_id": "531002071847-vi46rrdugjjhhd5a28gjjr1jlv9cl53a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9zqauvAU17_zoFArimOUS70A2AXnJeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531002071847-vi46rrdugjjhhd5a28gjjr1jlv9cl53a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
